@@ -1,0 +1,5 @@
+## Build generated
+build/
+
+# Node
+server/node_modules
